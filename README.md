@@ -1,3 +1,4 @@
 # Radar Detection and Waveform Identification under High Interference in CBRS Band
 This repository facilitates the detection of radar and waveform identification within the CBRS band using two pipelines.
-## 1. IQ Based 
+## Introduction
+This repository provides a flexible framework for signal detection and classification in shared-spectrum environments such as the Citizens Broadband Radio Service (CBRS) band. It focuses on enabling coexistence between commercial wireless systems, like 5G, and incumbent users, such as military radar systems. Using machine learning-based approaches, the code supports reliable detection and identification of signals under challenging interference conditions. It is adaptable to various signal types and can be extended to handle different detection tasks and interference scenarios, making it suitable for research and development in spectrum sharing and coexistence technologies.
