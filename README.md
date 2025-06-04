@@ -45,10 +45,11 @@ This pipeline operates on spectrogram representations of radar signals
 - Follow the inline instructions to train, save, and evaluate the model.
 - Use the trained models to predict or classify new radar signals under interference conditions.
 
-
-## Cite
-
+## 🔹 Citation
 If this work supports your research, please consider citing:
-```Shafi Ullah Khan, Michel Kulhandjian, and Debashri Roy, “Pushing the Boundaries in CBRS Band: Robust
-Radar Detection within High 5G Interference” In IEEE Military Communications Conference (MILCOM), OCT 2025```
+
+> **Shafi Ullah Khan, Michel Kulhandjian, and Debashri Roy**  
+> *“Pushing the Boundaries in CBRS Band: Robust Radar Detection within High 5G Interference,”*  
+> In IEEE Military Communications Conference (MILCOM), October 2025.
+
 
